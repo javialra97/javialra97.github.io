@@ -122,6 +122,7 @@ include:
   - _pages
   - files
   - images
+  - _publications
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
