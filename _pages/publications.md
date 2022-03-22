@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=AcJIzk4AAAAJ&hl=es}}">my Google Scholar profile</a>.</u>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. J. Proppe<sup>⊥</sup>, Ernesto R. López-Rodríguez, **Javier E. Alfonso-Ramos**, Dayana Alonso, Gerardo M. Ojeda-Carralero, Gustavo A. Prado & Elena Moreno-Castillo r &quot;Identification of novel thiadiazin derivatives as potentially selective inhibitors towards trypanothione reductase from Trypanosoma cruzi by molecular docking using the numerical index poses ratio Pr and the binding mode analysis;, <a href="https://link.springer.com/article/10.1007/s42452-021-04375-0"><i>SN. Appl. Sci.</i> <b>2021</b>, <i>3</i>, 376</a>
