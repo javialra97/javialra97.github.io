@@ -5,9 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-Events
-======
-
 
 Prices and Awards
 =================
