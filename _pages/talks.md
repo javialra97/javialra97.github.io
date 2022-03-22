@@ -13,7 +13,7 @@ author_profile: true
 3. Student’s Scientific Day (2019) Faculty of Chemistry, University of Havana. Commission of Organic Chemistry. Oral presentation. “Virtual Screening and synthesis of thiadiazine-2-thione-tetrazole hybrids” Author: Javier E. Alfonso-Ramos, Advisors: M.Sc. Gerardo M. Ojeda Carralero and Prof. Dr. Julieta Coro Bermello.
 2. Student’s Scientific Day (2018) Faculty of Chemistry, University of Havana. Commission of Research Reviews. Oral presentation. “A review on the Aldehyde-Alkine-Amine Coupling (A3-Coupling) Reaction”. Author: Javier E. Alfonso-Ramos, Advisors: M.Sc. Gerardo M. Ojeda Carralero and Prof. Dr. Julieta Coro Bermello.
 1. Student’s Scientific Day (2018) Faculty of Chemistry, University of Havana. Commission of Computational and Theoretical Chemistry. Oral presentation. “Virtual Screening of thiadiazine-2-thione-tetrazole hybrids against the Tripanothione Reductase of Trypanosoma Cruzi.” Author: Javier E. Alfonso-Ramos, Advisors: M.Sc. Gerardo M. Ojeda Carralero, M.Sc. Elena Moreno-Castillo and Prof. Dr. Julieta Coro Bermello.
-
+{: reversed="reversed"}
 
 Prices and Awards
 =================
