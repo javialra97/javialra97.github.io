@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=AcJIzk4AAAAJ&hl">my Google Scholar profile</a>.
 
-3. **Javier E. Alfonso-Ramos**, Ruben Van Lommel, David Hernández-Castillo, Frank De Proft, Roy González-Alemán, Erik V. Van der Eycken & Gerardo M. Ojeda-Carralero &quot;Origins of the Reactivity in 1,3-Dipolar Cycloadditions of Acyl-isocyanide Ylides&quot;, <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202201028"><i> 
+3. **Javier E. Alfonso-Ramos**, Ruben Van Lommel, David Hernández-Castillo, Frank De Proft, Roy González-Alemán, Erik V. Van der Eycken & Gerardo M. Ojeda-Carralero &quot;Origins of the Reactivity in 1,3-Dipolar Cycloadditions of Acyl-isocyanide Ylides&quot;, <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202201028"><i>Eur. J. Org. Chem.</i> <b>2022</b>
 
 2. Serena Pillitteri, Prabhat Ranjan, Gerardo M. Ojeda-Carralero, Laura Y. Vázquez Amaya, **Javier E. Alfonso-Ramos**, Erik V. Van der Eycken & Upendra K. Sharma &quot;Merging dual photoredox/cobalt catalysis and boronic acid (derivatives) activation for the Minisci reaction&quot;, <a href="https://pubs.rsc.org/en/content/articlelanding/2022/qo/d2qo01441f"><i>Org. Chem. Front.</i> <b>2022</b>; <a href="https://chemrxiv.org/engage/chemrxiv/article-details/630ddd9a521cb760ceabdad4">ChemRxiv</a>
 
