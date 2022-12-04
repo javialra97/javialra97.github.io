@@ -10,11 +10,11 @@ redirect_from:
 
 Currently, I am waiting for my title of Bachelor in Science and while playing with Python, Linux and some transition states 😃. 
 
-From 2017 to 2022 I studied [Chemistry](https://fq.uh.cu/docencia/pregrado/) at the [University of Havana](http://www.uh.cu/). In Spring 2019, I started to work in the Laboratory of Computational and Theoretical Chemistry, lead by </div>[Prof. Dr. Luis Alberto Montero](https://scholar.google.es/citations?user=ZZIpOQwAAAAJ&hl=es). There I use theory and computational methods to explore the transition states of organic reactions to understand the mechanistic features of the reaction. My work was under supervision of [Dr. Gerardo Manuel Ojeda Carralero](https://scholar.google.com/citations?user=6RrCA68AAAAJ&hl).
+From 2017 to 2022 I studied [Chemistry](https://fq.uh.cu/docencia/pregrado/) at the [University of Havana](http://www.uh.cu/). In Spring 2019, I started to work in the Laboratory of Computational and Theoretical Chemistry, lead by </div>[Prof. Dr. Luis Alberto Montero](https://scholar.google.es/citations?user=ZZIpOQwAAAAJ&hl=es). There I use theory and computational methods to study the reactivity. My work was under supervision of [Dr. Gerardo Manuel Ojeda Carralero](https://scholar.google.com/citations?user=6RrCA68AAAAJ&hl).
 
 Starting January 2023, I will be joining the [Faculty of Chemical Engineering](https://quimica.cujae.edu.cu/) at the [Technological University of Havana](https://cujae.edu.cu/) as an Lecturer Assistant. I will also keep associated with the Laboratory of Computational and Theoretical Chemistry.
 
-I can be reached at javialra97 [at] gmail [dot] com. My full CV can be downloand [here]()
+I can be reached at javialra97 [at] gmail [dot] com. My full CV can be downloand [here](https://github.com/javialra97/javialra97.github.io/blob/master/files/Javier%20E.%20Alfonso-Ramos%20CV.pdf)
 
 In case you are wondering, here's [how to pronounce my name](https://www.youtube.com/watch?v=Uar7SUKusEk).
 
