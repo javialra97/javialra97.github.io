@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1.  **I International Symposium CIDEM 2022** Varadero, Cuba. Poster. “Synthesis and molecular docking of new hybrids tetrazole-thiadiazines”. Authors: Javier E. Alfonso-Ramos, Gerardo M. Ojeda-Carralero, Julieta Coro Bermello. 
+1.  **I International Symposium CIDEM (2022)** Varadero, Cuba. Poster. “Synthesis and molecular docking of new hybrids tetrazole-thiadiazines”. Authors: Javier E. Alfonso-Ramos, Gerardo M. Ojeda-Carralero, Julieta Coro Bermello. 
 2.  **II LatinXChem (2021)** Online Twitter event. Poster #Comp099. “Origins of regioselectivy in 1,3-dipolar cycloaddition of acylnitrile ylides”. Authors: Javier E. Alfonso-Ramos, Roy Gonzalez-Aleman, Gerardo M. Ojeda, David Hernandez Castillo.
 3. **XXIII Conference of Chemistry (2020)** Santiago de Cuba, Cuba. Online poster. “Origins of regioselectivy in 1,3-dipolar cycloaddition of acylnitrile ylides” Authors: Javier E. Alfonso-Ramos, Roy Gonzalez-Aleman, Gerardo M. Ojeda, David Hernandez Castillo.
 4. **IV Iberoamerican Symposium on Organic Chemistry (2019)** Santa Maria Key, Villa Clara, Cuba. Poster. “Origins of regioselectivy in 1,3-dipolar cycloaddition of acylnitrile ylides” Authors: Javier E. Alfonso-Ramos, Roy Gonzalez-Aleman, Gerardo M. Ojeda, David Hernandez Castillo.
