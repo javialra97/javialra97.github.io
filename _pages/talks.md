@@ -18,6 +18,8 @@ author_profile: true
 
 Prices and Awards
 =================
+* **National Award for Most Outstanding Student** Cuban Chemical Society, Cuba.
+* **IX National University Chemistry Olympiad** Havana, Cuba. Mention.
 * **Best Student in Research**        Faculty of Chemistry, University of Havana.
 * **Best Teaching Assistant Student** Faculty of Chemistry, University of Havana.
 * **Prize Examination of Organic Chemistry I (2020)** Faculty of Chemistry, University of Havana. Mention: 2nd place.
