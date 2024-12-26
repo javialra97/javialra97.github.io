@@ -6,10 +6,6 @@ title: Javier E. Alfonso-Ramos
 first_name: Javier E.
 last_name: Alfonso-Ramos
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -32,7 +28,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/javialra97
-  - icon: brands/instagram
+  - icon: brands/bluesky
     url: https://bsky.app/profile/javialra97.bsky.social
   - icon: brands/github
     url: https://github.com/javialra97
