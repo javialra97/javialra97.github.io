@@ -36,32 +36,23 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/javialra97
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://bsky.app/profile/javialra97.bsky.social
   - icon: brands/github
     url: https://github.com/javialra97
   - icon: brands/linkedin
-    url: https://www.linkedin.com/javialra97
+    url: https://www.linkedin.com/in/javier-emilio-alfonso-ramos/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=AcJIzk4AAAAJ&hl=es
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6616-8920
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Chemical Reactivity
+  - Machine Learning
+  - Neural Network Potentials
+  
 
 education:
-  - area: PhD Chemistry
-    institution: Chimie ParisTech - PSL
-    date_start: 2023-03-01
-    date_end: 2026-02-28
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  
   - area: BSc Chemistry
     institution: University of Havana
     date_start: 2017-09-01
