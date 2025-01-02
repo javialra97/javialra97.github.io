@@ -50,6 +50,6 @@ education:
     institution: University of Havana
 ---
 
-## About Me
+## Hi 👋
 
 I am a PhD student at Chimie ParisTech in the group of [Prof. Thijs Stuyver](https://thijsstuyver.com/). My research interest is in combining machine learning methods and density functional theory calculations to accelerate the exploration and analysis of chemical reactivity.
